@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>UTF-16</comment>
+<entry key="pkg-description">A simple workflow, that checks for the uptime of a host, and makes a desicion based on the time since last reboot.</entry>
+<entry key="pkg-name">Uptime</entry>
+<entry key="pkg-signer">CN=FlowGrab,O=FlowGrab,C=EE</entry>
+<entry key="pkg-owner"/>
+<entry key="pkg-id">ff8080814cb2282d014cb23f02790214</entry>
+</properties>
